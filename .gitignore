@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+pyproject.toml
+Qwen_Qwen3-8B-Q4_K_M.gguf
+
+# Virtual environments
+.venv
+test.ipynb
